@@ -1,12 +1,13 @@
 
-.meunome{
-    text-align: center;
+
+#minha-foto{
+    float: left;
+}
+
+.image-container{
+    height: 295px;
 }
 
 div{
     border: 2px solid green;
-}
-
-#minha-foto{
-    float: left;
 }
