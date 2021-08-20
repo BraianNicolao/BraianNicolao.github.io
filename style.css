@@ -1,8 +1,12 @@
-.container-dados{
-    border: 10px solid red;
+
+.meunome{
+
 }
 
-.container-nome{
-    text-align: center;
+div{
+    border: 2px solid green;
 }
 
+#minha-foto{
+    float: left;
+}
