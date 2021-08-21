@@ -1,11 +1,12 @@
 
 
 #minha-foto{
+    height: 300px;
     float: left;
 }
 
 .image-container{
-    height: 295px;
+    height: 300px;
 }
 
 div{
