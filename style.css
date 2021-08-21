@@ -2,15 +2,28 @@ body{
     background-color: #04f8c4;
 }
 
+.p-descricao{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    position: absolute;
+    margin: 60px 20px 60px 20px;
+    top: 10%;
+    left: 12%;
+}
+
+
+
 #minha-foto{
     height: 290px;
     float: left;
     padding: 10px;
+    
     background-color: #000;
 }
 
 .image-container{
     height: 310px;
+    position: relative;
 }
 
 div{
